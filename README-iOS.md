@@ -8,7 +8,7 @@ Before doing this workshop please install these required programs
 1. Download and install OBS from [obsproject.com](https://obsproject.com/download)
 1. Install Amplify CLI using this command `npm install -g @aws-amplify/cli`
 1. Install Pods using this command `sudo gem install cocoapods`, if you have pods installed then run `pods update`
-1. Clone the UnicornTrivia project repository using `git clone https://github.com/wizage/UnicornTriviaWorkshop.git` **This will change**
+1. Clone the UnicornTrivia project repository using `git clone https://github.com/wizage/PubliciOS.git` **This will change**
 1. Intall the amplify livestream plugin `npm install -g <insert url>` or cd into `AmplifyElementalPlugin` and run `npm install -g`
 
 
